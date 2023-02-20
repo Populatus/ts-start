@@ -5,4 +5,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Populatus](https://github.com/populatus)
+[MIT](./LICENSE) License © 2023 [Populatus](https://github.com/populatus)
